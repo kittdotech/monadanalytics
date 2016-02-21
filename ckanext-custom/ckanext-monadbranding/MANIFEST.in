@@ -1,0 +1,2 @@
+include README.rst
+recursive-include ckanext/monadbranding *.html *.json *.js *.less *.css
